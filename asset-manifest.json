@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/hot-food-recipe/static/css/main.accd4ce4.css",
+    "main.js": "/hot-food-recipe/static/js/main.fee8e8a6.js",
+    "static/media/hero-image.jpg": "/hot-food-recipe/static/media/hero-image.e698ef710ff2f409d846.jpg",
+    "static/media/indian.jpg": "/hot-food-recipe/static/media/indian.35143a56cd2a8aa7e1ec.jpg",
+    "static/media/italian.jpg": "/hot-food-recipe/static/media/italian.6968a50e90c8ff91e545.jpg",
+    "static/media/chinese.jpg": "/hot-food-recipe/static/media/chinese.8f73dbebfc3ed7f581f9.jpg",
+    "static/media/american-2.jpg": "/hot-food-recipe/static/media/american-2.01aab944b52b73a017a0.jpg",
+    "index.html": "/hot-food-recipe/index.html",
+    "main.accd4ce4.css.map": "/hot-food-recipe/static/css/main.accd4ce4.css.map",
+    "main.fee8e8a6.js.map": "/hot-food-recipe/static/js/main.fee8e8a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.accd4ce4.css",
+    "static/js/main.fee8e8a6.js"
+  ]
+}
